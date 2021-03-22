@@ -2,7 +2,7 @@
 button {
     background-color: transparent;
     outline: none;
-    font-family: Karla-Regular;
+    font-family: Spartan-Regular;
     color: #ffffff;
     font-size: 1rem;
     border: 1px solid white;
@@ -37,3 +37,7 @@ button > a{
         background-color: #ffffff;
     }
 }
+
+// buttons 
+// on dark: $clr5 frame - hover: $clr5 background $clr3 text
+// on light: $clr2 frame - hover: $clr2 background

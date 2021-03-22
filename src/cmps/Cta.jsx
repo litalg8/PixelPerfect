@@ -5,8 +5,8 @@ function Cta(){
     return(
         <section className="cta container align-center">
         <div className="cta-pattern-desktop flex padding justify-between">
-          <h2 className="flex column">Find out more <span>about how we work </span></h2>
-          <button><NavLink to="/">How we work</NavLink></button>
+          <h2 className="flex column">Ready to make a reservation?</h2>
+          <button><NavLink to="/">Book a table</NavLink></button>
         </div>
       </section>
     )

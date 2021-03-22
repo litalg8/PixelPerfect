@@ -8,7 +8,7 @@
 }
 
 html {
-    font-family: Karla-Regular;
+    font-family: Spartan-Regular;
     line-height: 1.6;
     color: $clr2;
     background-color: #ffffff;
@@ -20,22 +20,22 @@ body {
 }
 
 nav {
-    background-color: $clr5;
+    background-color: $clr2;
     text-transform: uppercase;
 }
 
 footer {
     width: 100%;
-    background-color: $clr5;
+    background-color: $clr2;
 }
 
 header {
-    background-color: $clr5;
+    background-color: $clr2;
     width: 100%;
 }
 
 h1 {
-    font-family: DMSerifDisplay-Regular;
+    font-family: Spartan-Regular;
     font-size: 3rem;
     font-weight: 400;
     line-height: 1;
@@ -43,14 +43,14 @@ h1 {
 }
 
 h2 {
-    font-family: DMSerifDisplay-Regular;
+    font-family: Spartan-Regular;
     margin: 0 0 0.6em;
     line-height: 1;
     font-weight: 400;
 }
 
 h3, h4, h5, h6 {
-    font-family: Karla-Regular;
+    font-family: Spartan-Regular;
     margin: 0 0 0.6em;
     line-height: 1;
 }
@@ -62,9 +62,10 @@ img {
 }
 
 p {
+    color:white; 
     margin: 0 0 1em;
     max-width: 40ch;
-    font-family: Karla-Regular;
+    font-family: Spartan-Regular;
 }
 
 ul, li {

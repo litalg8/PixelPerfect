@@ -8,11 +8,16 @@ function HeroSection() {
             <div className="grid container">
             <div className="text-section flex column">
                     <div className="section-border"> <span></span></div>
-                    <h1 className="flex column">Humanizing <span>your insurance.</span></h1>
-                    <p> Get your life insurance coverage easier and faster. We blend our expertise
-                    and technology to help you find the plan that’s right for you. Ensure you
-            and your loved ones are protected.</p>
-                    <button className="top-button"><NavLink to="/">View plans</NavLink></button>
+                    <h1 className="flex column">  Exquisite dining since 1989</h1>
+                    <p> Experience our seasonal menu in beautiful country surroundings. Eat the freshest produce from 
+the comfort of our farmhouse.</p>
+
+          
+
+
+
+
+                    <button className="top-button"><NavLink to="/">Book a table</NavLink></button>
                 </div>
                 <div className="image-container"></div>
 
