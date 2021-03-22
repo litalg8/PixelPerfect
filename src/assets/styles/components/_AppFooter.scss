@@ -1,0 +1,28 @@
+.social-container {
+    padding: 20px 0px 20px 0px;
+    border-bottom: 1px lightgray solid;
+}
+.item-title {
+    color: $clr4;
+    text-transform: uppercase;
+    padding: 20px 0px 20px 0px;
+}
+
+ul {
+    li {
+        cursor: pointer;
+        &:hover {
+            text-decoration: underline;
+            color: $clr1;
+        }
+    }
+}
+
+.fab {
+    color: $clr4;
+    cursor: pointer;
+
+    &:hover {
+        color: $clr2;
+    }
+}

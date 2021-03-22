@@ -1,0 +1,39 @@
+
+button {
+    background-color: transparent;
+    outline: none;
+    font-family: Karla-Regular;
+    color: #ffffff;
+    font-size: 1rem;
+    border: 1px solid white;
+    text-transform: uppercase;
+    height: fit-content;
+    width: fit-content;
+    margin: 0;
+    padding: 5px 15px 5px 15px;
+    overflow: hidden;
+    cursor: pointer;
+
+    a{
+        color:#ffffff; 
+    }
+ 
+}
+
+.header-button {
+    background-color: transparent;
+    color:$clr1; 
+    border: 1px solid $clr1;
+    &:hover{
+        color:#ffffff;
+        background-color: $clr1;
+    }
+}
+
+button > a{
+
+    &:hover{
+        color:$clr1; 
+        background-color: #ffffff;
+    }
+}

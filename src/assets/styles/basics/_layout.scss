@@ -1,0 +1,19 @@
+.container {
+    max-width: 800px;
+    padding:20px 0px 20px 0px; 
+    margin: 0 auto;
+
+}
+
+.section-border {
+    width: 6rem;
+    border-top: 1px solid white;
+}
+
+
+.mobile-menu{
+    display:none; 
+    @include for-mobile-layout{
+        display:block; 
+     }
+}

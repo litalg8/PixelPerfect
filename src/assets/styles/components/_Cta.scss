@@ -1,0 +1,18 @@
+.cta h2 {
+    font-weight: 400;
+    font-size: 2rem;
+    color: #ffffff;
+}
+
+.cta-pattern-desktop {
+    background-color: hsl(256, 26%, 20%);
+    background-image: url('../../imgs/bg-pattern-how-we-work-desktop.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: right;
+    width: 100%;
+
+    button{
+        align-self:center; 
+    }
+}

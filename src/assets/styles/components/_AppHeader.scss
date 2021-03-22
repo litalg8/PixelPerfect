@@ -1,0 +1,26 @@
+.main-nav {
+    background-color: hsl(0, 0%, 98%);
+
+    .route-nav{
+        @include for-mobile-layout{
+            visibility: hidden;
+         }
+    }
+
+    .logo{
+        padding-top:20px; 
+        @include for-mobile-layout{
+            width:150px;
+         } 
+    }
+}
+
+.main-nav>.logo {
+    padding: 0;
+    font-size: 24px;
+    font-family: DMSerifDisplay-Regular;
+}
+
+.mobile-nav {
+    display: none;
+}

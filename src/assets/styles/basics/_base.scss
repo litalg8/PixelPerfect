@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+}
+
+::selection {
+    background-color: hsl(216, 30%, 68%);
+    color: $clr2;
+}
+
+html {
+    font-family: Karla-Regular;
+    line-height: 1.6;
+    color: $clr2;
+    background-color: #ffffff;
+}
+
+body {
+    font-size: 16px;
+    margin: 0;
+}
+
+nav {
+    background-color: $clr5;
+    text-transform: uppercase;
+}
+
+footer {
+    width: 100%;
+    background-color: $clr5;
+}
+
+header {
+    background-color: $clr5;
+    width: 100%;
+}
+
+h1 {
+    font-family: DMSerifDisplay-Regular;
+    font-size: 3rem;
+    font-weight: 400;
+    line-height: 1;
+    text-transform: none;
+}
+
+h2 {
+    font-family: DMSerifDisplay-Regular;
+    margin: 0 0 0.6em;
+    line-height: 1;
+    font-weight: 400;
+}
+
+h3, h4, h5, h6 {
+    font-family: Karla-Regular;
+    margin: 0 0 0.6em;
+    line-height: 1;
+}
+
+img {
+    width: 100%;
+    object-fit: cover;
+
+}
+
+p {
+    margin: 0 0 1em;
+    max-width: 40ch;
+    font-family: Karla-Regular;
+}
+
+ul, li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
