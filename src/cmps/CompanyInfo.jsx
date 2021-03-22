@@ -13,10 +13,10 @@ function CompanyInfo() {
           <div className="placeholder-first"></div>
           <div className="text-section-1 flex column">
             <div className="section-border"> <span></span></div>
-            <h1 className="flex column">Humanizing <span>your insurance.</span></h1>
-            <p> Get your life insurance coverage easier and faster. We blend our expertise
-            and technology to help you find the plan that’s right for you. Ensure you
-            and your loved ones are protected.</p>
+            <h1 className="flex column">
+              Enjoyable place for all the family</h1>
+            <p>Our relaxed surroundings make dining with us a great experience for everyone. We can even arrange
+               a tour of the farm before your meal.</p>
             <button className="top-button"><NavLink to="/">View plans</NavLink></button>
           </div>
         </div>
@@ -26,10 +26,9 @@ function CompanyInfo() {
         <div className="grid container">
           <div className="text-section flex column">
             <div className="section-border"> <span></span></div>
-            <h1 className="flex column">Humanizing <span>your insurance.</span></h1>
-            <p> Get your life insurance coverage easier and faster. We blend our expertise
-            and technology to help you find the plan that’s right for you. Ensure you
-            and your loved ones are protected.</p>
+            <h1 className="flex column">The most locally sourced food</h1>
+            <p>  All our ingredients come directly from our farm or local fishery. So you can be sure that you’re 
+                  eating the freshest, most sustainable food.</p>
             <button className="top-button"><NavLink to="/">View plans</NavLink></button>
           </div>
           <div className="placeholder"></div>

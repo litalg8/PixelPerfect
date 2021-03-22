@@ -1,14 +1,10 @@
 .social-container {
     border-bottom: 1px lightgray solid;
 }
-.item-title {
-    color: $clr4;
-    text-transform: uppercase;
-    padding: 20px 0px 20px 0px;
-}
 
 ul {
     li {
+        color:white; 
         cursor: pointer;
         &:hover {
             text-decoration: underline;

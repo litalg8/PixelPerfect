@@ -10,7 +10,7 @@ function HeroSection() {
                     <div className="section-border"> <span></span></div>
                     <h1 className="flex column">  Exquisite dining since 1989</h1>
                     <p> Experience our seasonal menu in beautiful country surroundings. Eat the freshest produce from 
-the comfort of our farmhouse.</p>
+                        the comfort of our farmhouse.</p>
 
           
 

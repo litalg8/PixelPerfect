@@ -3,7 +3,7 @@
 }
 
 ::selection {
-    background-color: hsl(216, 30%, 68%);
+    background-color: $clr1;
     color: $clr2;
 }
 
@@ -34,6 +34,12 @@ header {
     width: 100%;
 }
 
+article{
+    background-color: $clr2;
+    width: 100%;
+    color:white; 
+}
+
 h1 {
     font-family: Spartan-Regular;
     font-size: 3rem;
@@ -58,11 +64,10 @@ h3, h4, h5, h6 {
 img {
     width: 100%;
     object-fit: cover;
-
 }
 
 p {
-    color:white; 
+    color:$clr2; 
     margin: 0 0 1em;
     max-width: 40ch;
     font-family: Spartan-Regular;

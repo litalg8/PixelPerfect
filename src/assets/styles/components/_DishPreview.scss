@@ -1,4 +1,17 @@
 .dish-preview{
-    width:50%; 
+    width:540px; 
     justify-content: space-between;
+    *{
+        margin-bottom:10px; 
+    }
+    .section-border{
+        color:$clr1; 
+        width:30px; 
+    }
+    img{
+        width:20%; 
+    }
+    p, h1, h4{
+        color:white; 
+    }
 }

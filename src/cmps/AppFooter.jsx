@@ -9,21 +9,17 @@ function AppFooter() {
     <footer className="footer-container">
       <div className="main-footer ">
         <nav className="browse-container container">
-          <ul className="browse-list flex ">
-          <span className="logo"><img src={logo} alt="logo" /></span>
+          <ul className="footer-list flex ">
+          <div className="logo margin-r"><img src={logo} alt="logo" /></div>
             <ul className="footer-item margin-r">
-              <div className="item-title">Our company</div>
-              <li> How we work</li>
-              <li> Why Insure?</li>
-              <li> View plans</li>
-              <li> Reviews </li>
+              <li>  Marthwaite, Sedbergh </li>
+              <li>  Cumbria</li>
+              <li> +00 44 123 4567</li>
             </ul>
             <ul className="footer-item margin-r">
-              <div className="item-title">Help me</div>
-              <li> FAQ</li>
-              <li> Terms of use</li>
-              <li> Privacy policy</li>
-              <li> Cookies</li>
+              <li> Open Times</li>
+              <li> Mon - Fri: 09:00 AM - 10:00 PM</li>
+              <li> Sat - Sun: 09:00 AM - 11:30 PM</li>
             </ul>
 
 
