@@ -1,25 +1,22 @@
 {
   "files": {
-    "main.css": "/PixelPerfect/static/css/main.99467163.chunk.css",
-    "main.js": "/PixelPerfect/static/js/main.ed6e3303.chunk.js",
-    "main.js.map": "/PixelPerfect/static/js/main.ed6e3303.chunk.js.map",
+    "main.css": "/PixelPerfect/static/css/main.c7e0e3c5.chunk.css",
+    "main.js": "/PixelPerfect/static/js/main.7ba727d6.chunk.js",
+    "main.js.map": "/PixelPerfect/static/js/main.7ba727d6.chunk.js.map",
     "runtime-main.js": "/PixelPerfect/static/js/runtime-main.a2312b31.js",
     "runtime-main.js.map": "/PixelPerfect/static/js/runtime-main.a2312b31.js.map",
-    "static/js/2.7db0d5e3.chunk.js": "/PixelPerfect/static/js/2.7db0d5e3.chunk.js",
-    "static/js/2.7db0d5e3.chunk.js.map": "/PixelPerfect/static/js/2.7db0d5e3.chunk.js.map",
+    "static/js/2.0465ae6b.chunk.js": "/PixelPerfect/static/js/2.0465ae6b.chunk.js",
+    "static/js/2.0465ae6b.chunk.js.map": "/PixelPerfect/static/js/2.0465ae6b.chunk.js.map",
     "index.html": "/PixelPerfect/index.html",
-    "static/css/main.99467163.chunk.css.map": "/PixelPerfect/static/css/main.99467163.chunk.css.map",
-    "static/js/2.7db0d5e3.chunk.js.LICENSE.txt": "/PixelPerfect/static/js/2.7db0d5e3.chunk.js.LICENSE.txt",
-    "static/media/global.scss": "/PixelPerfect/static/media/image-intro-desktop.2f3429f6.jpg",
-    "static/media/icon-affordable-prices.a14b8077.svg": "/PixelPerfect/static/media/icon-affordable-prices.a14b8077.svg",
-    "static/media/icon-people-first.d7caeec6.svg": "/PixelPerfect/static/media/icon-people-first.d7caeec6.svg",
-    "static/media/icon-snappy-process.eea91882.svg": "/PixelPerfect/static/media/icon-snappy-process.eea91882.svg",
-    "static/media/logo.b84080a1.svg": "/PixelPerfect/static/media/logo.b84080a1.svg"
+    "static/css/main.c7e0e3c5.chunk.css.map": "/PixelPerfect/static/css/main.c7e0e3c5.chunk.css.map",
+    "static/js/2.0465ae6b.chunk.js.LICENSE.txt": "/PixelPerfect/static/js/2.0465ae6b.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/PixelPerfect/static/media/ready-bg-desktop.7404dbad.jpg",
+    "static/media/logo.f6ae2c4c.svg": "/PixelPerfect/static/media/logo.f6ae2c4c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a2312b31.js",
-    "static/js/2.7db0d5e3.chunk.js",
-    "static/css/main.99467163.chunk.css",
-    "static/js/main.ed6e3303.chunk.js"
+    "static/js/2.0465ae6b.chunk.js",
+    "static/css/main.c7e0e3c5.chunk.css",
+    "static/js/main.7ba727d6.chunk.js"
   ]
 }
